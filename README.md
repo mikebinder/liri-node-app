@@ -11,21 +11,21 @@ LIRI is a _Language_ Interpretation and Recognition Interface. LIRI is a command
 ![tweets](./Screenshots/tweets.png)
 
 **spotify-this-song** will return the following data for whatever song follows the command;
-1.Artist
-2.Song Title
-3.Preview (which can be quickly accessed by command clicking the link)
-4.Album
+1. Artist
+2. Song Title
+3. Preview (which can be quickly accessed by command clicking the link)
+4. Album
 
 ![spotify](./Screenshots/spotify.png)
 
 **movie-this** will return the following data for whatever movie follows the command;
-1.Title
-2.Release Year
-3.IMDB Rating
-4.Rotten Tomatoes Score
-5.Country of origin
-6.Language
-7.Plot Synopsis
+1. Title
+2. Release Year
+3. IMDB Rating
+4. Rotten Tomatoes Score
+5. Country of origin
+6. Language
+7. Plot Synopsis
 8. Actors
 
 ![movie](./Screenshots/movie.png)
