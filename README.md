@@ -16,6 +16,8 @@ LIRI is a _Language_ Interpretation and Recognition Interface. LIRI is a command
 3.Preview (which can be quickly accessed by command clicking the link)
 4.Album
 
+![spotify](./Screenshots/spotify.png)
+
 **movie-this** will return the following data for whatever movie follows the command;
 1.Title
 2.Release Year
@@ -25,6 +27,8 @@ LIRI is a _Language_ Interpretation and Recognition Interface. LIRI is a command
 6.Language
 7.Plot Synopsis
 8. Actors
+
+![movie](./Screenshots/movie.png)
 
 **do-what-it-says** will use fs readFile to pass the contents of a txt file into the spotify function. 
 
