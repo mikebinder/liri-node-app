@@ -27,10 +27,10 @@ LIRI is a _Language_ Interpretation and Recognition Interface. LIRI is a command
 **do-what-it-says** will use fs readFile to pass the contents of a txt file into the spotify function. 
 
 ### Tech Used
-Node.js
-Twitter NPM Package - https://www.npmjs.com/package/twitter
-Spotify NPM Package - https://www.npmjs.com/package/spotify
-Request NPM Package - https://www.npmjs.com/package/request
+* Node.js
+* Twitter NPM Package - https://www.npmjs.com/package/twitter
+* Spotify NPM Package - https://www.npmjs.com/package/spotify
+* Request NPM Package - https://www.npmjs.com/package/request
 
 ### Built With
 VisualStudio Code
