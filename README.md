@@ -7,7 +7,7 @@ LIRI is a _Language_ Interpretation and Recognition Interface. LIRI is a command
 ### Commands
 
 **my-tweets** will return a list of the 20 most recent tweets. 
-
+![tweets]
 (https://raw.github.com/mikebinder/liri-node-app/master/Screenshots/tweets.png)
 
 **spotify-this-song** will return the following data for whatever song follows the command;
